@@ -1,5 +1,0 @@
-﻿scenario_id,scenario_name,virgin_pet_g,rpet_g,pp_cap_g,containerboard_g,total_modeled_g
-S0,Baseline,30,0,4,18,52
-S1,10% Lightweighting,27,0,4,18,49
-S2,30% rPET,21,9,4,18,52
-S3,Lightweighting + 30% rPET,18.9,8.1,4,18,49
