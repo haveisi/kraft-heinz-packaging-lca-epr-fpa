@@ -1,5 +1,0 @@
-﻿scenario_id,scenario_name,gwp_kg_co2e_per_package,reduction_pct,annual_avoided_tco2e_at_5m
-S0,Baseline,0.10532,0,0
-S1,10% Lightweighting,0.09887,6.12,32.25
-S2,30% rPET,0.09357,11.16,58.75
-S3,Lightweighting + 30% rPET,0.0883,16.16,85.1
